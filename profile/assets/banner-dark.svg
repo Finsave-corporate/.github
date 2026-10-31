@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Finsave — finanças pessoais, sozinho ou em grupo">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Finsave — atividade da organização no GitHub">
   <title>Finsave</title>
   <rect width="1200" height="320" rx="24" fill="#0B4F30"/>
   <circle cx="1080" cy="40" r="190" fill="#14AE5C" opacity="0.10"/>
   <circle cx="1130" cy="300" r="120" fill="#93D5BC" opacity="0.18"/>
-  <g transform="translate(80 92) scale(4.2)">
+  <g transform="translate(80 112) scale(4.2)">
     <circle cx="14" cy="14" r="9.5" fill="none" stroke="#14AE5C" stroke-width="7" stroke-dasharray="52 8" stroke-linecap="round" transform="rotate(-45 14 14)"/>
   </g>
-  <text x="236" y="168" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#FAF8F3">Finsave</text>
-  <text x="240" y="214" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#DDF9EF">As suas finanças pessoais, sozinho ou em grupo.</text>
-  <g font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#FAF8F3">
-    <rect x="240" y="242" width="62" height="34" rx="17" fill="#0F8F4B"/><text x="271" y="265" text-anchor="middle">Kz</text>
-    <rect x="312" y="242" width="62" height="34" rx="17" fill="#0F8F4B"/><text x="343" y="265" text-anchor="middle">R$</text>
-    <rect x="384" y="242" width="62" height="34" rx="17" fill="#0F8F4B"/><text x="415" y="265" text-anchor="middle">€</text>
-    <rect x="456" y="242" width="62" height="34" rx="17" fill="#0F8F4B"/><text x="487" y="265" text-anchor="middle">$</text>
-  </g>
+  <text x="236" y="188" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#FAF8F3">Finsave</text>
+  <text x="240" y="234" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#DDF9EF">Atividade da organização no GitHub</text>
 </svg>
