@@ -49,23 +49,23 @@
   <circle class="arco s1" cx="230" cy="300" r="128" stroke-width="28" stroke-dasharray="134.0 804.2" style="--c:134.0" transform="rotate(-90 230 300)"/>
   <circle class="pista" cx="230" cy="300" r="88" fill="none" stroke-width="28"/>
   <text x="230" y="308" font-size="64" font-weight="800" text-anchor="middle" letter-spacing="-2">72</text>
-  <text class="mudo" x="230" y="336" font-size="15" text-anchor="middle">commits · 12 semanas</text>
+  <text class="mudo" x="230" y="334" font-size="14" text-anchor="middle">commits · 12 semanas</text>
   <text class="mudo" x="450" y="140" font-size="15">Parte de cada um nos commits das últimas 12 semanas</text>
   <line class="regua" x1="450" y1="166" x2="920" y2="166"/>
   <circle class="d0" cx="458" cy="196" r="7"/>
   <text x="478" y="196" font-size="20" font-weight="700">Java</text>
+  <text x="920" y="206" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">60</text>
   <text class="mudo" x="478" y="219" font-size="14">1 repositório · 43 commits em 30 dias</text>
-  <text x="920" y="210" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">60</text>
   <line class="regua" x1="450" y1="244" x2="920" y2="244"/>
   <circle class="d1" cx="458" cy="274" r="7"/>
   <text x="478" y="274" font-size="20" font-weight="700">TypeScript</text>
+  <text x="920" y="284" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">12</text>
   <text class="parado" x="478" y="297" font-size="14">1 repositório · 0 commits em 30 dias</text>
-  <text x="920" y="288" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">12</text>
   <line class="regua" x1="450" y1="322" x2="920" y2="322"/>
   <circle class="d2" cx="458" cy="352" r="7"/>
   <text x="478" y="352" font-size="20" font-weight="700">HTML</text>
+  <text x="920" y="362" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">0</text>
   <text class="parado" x="478" y="375" font-size="14">1 repositório · 0 commits em 30 dias</text>
-  <text x="920" y="366" font-size="34" font-weight="800" text-anchor="end" letter-spacing="-1">0</text>
   <line class="regua" x1="40" y1="520" x2="920" y2="520"/>
   <text class="mudo" x="40" y="552" font-size="15">Commits por semana</text>
   <rect class="barra" x="47.0" y="677.0" width="59.3" height="3.0" rx="6"><title>0 commits</title></rect>
